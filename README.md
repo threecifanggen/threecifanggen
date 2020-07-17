@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Some Persona
+
+- 📫 How to reach me: cube.root.huang+help@gmail.com
+
 <!--
 **threecifanggen/threecifanggen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
