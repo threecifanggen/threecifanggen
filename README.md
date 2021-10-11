@@ -3,6 +3,7 @@
 ### Some Persona
 
 - 📫 How to reach me: cube.root.huang+help@gmail.com
+- My Site: https://3gee.netlify.app/
 
 <!--
 **threecifanggen/threecifanggen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
