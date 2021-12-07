@@ -1,30 +1,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=threecifanggen&show_icons=true&theme=radical)
 
 
-### Hi there 👋
+### Hi
 
 大家好！我是3gee，从事数据科学。并同时对电影、艺术和哲学感兴趣。本科读生物，研究生读哲学。所以喜欢的领域非常广泛，很希望和大家联络。
 
-### 一些信息
+### 如何联系我
 
-- 📫 How to reach me: cube.root.huang+help@gmail.com
-- My Site: https://3gee.netlify.app/
+- 如何向我问社区问题: cube.root.huang+help@gmail.com
+- 我的个人网站: https://3gee.netlify.app/
 - 知乎: https://www.zhihu.com/people/huang-bao-chen
-
-<!--
-**threecifanggen/threecifanggen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 #### 我的博客
 
