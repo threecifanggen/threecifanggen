@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 ### 社交媒体
 
-<img src="./assets/zhihu.svg" />
+<img asign="left" width="22px" src="./assets/zhihu.svg" />
 
