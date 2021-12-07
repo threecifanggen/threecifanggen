@@ -11,7 +11,11 @@
 - 我的个人网站: https://3gee.netlify.app/
 - 知乎: https://www.zhihu.com/people/huang-bao-chen
 
-#### 我的博客
+### 我的技能(CS/DS)
+
+![](https://img.shields.io/badge/Python-★★★★☆-green?style=flat&logo=Python)
+
+### 我的博客
 
 <!-- START_SECTION:blog -->
 * <a href='https://3gee.netlify.app/lambda-and-tau/2021/12/07/python_lambda%E4%B9%8B%E5%9F%BA%E4%BA%8E%E6%80%A7%E8%B4%A8%E6%B5%8B%E8%AF%95.html' target='_blank'>Python函数式编程系列015：基于性质测试</a> - 2021-12-07
@@ -20,6 +24,7 @@
 * <a href='https://3gee.netlify.app/%E8%BF%87%E5%BA%A6%E8%A7%A3%E8%AF%BB/2021/11/26/%E5%BC%A5%E8%B5%9B%E4%BA%9A%E4%B8%8E%E9%82%AA%E7%A5%9E.html' target='_blank'>弥赛亚与邪神</a> - 2021-11-26
 * <a href='https://3gee.netlify.app/lambda-and-tau/2021/11/08/python_lambda%E4%B9%8B%E5%87%BD%E6%95%B0%E6%80%A7%E8%B4%A8.html' target='_blank'>Python函数式编程系列014：函数性质之优化</a> - 2021-11-08
 <!-- END_SECTION:blog -->
+
 
 ### 社交媒体
 
