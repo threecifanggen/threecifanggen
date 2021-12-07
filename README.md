@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- START_SECTION:blog -->
+
 <!-- END_SECTION:blog -->
