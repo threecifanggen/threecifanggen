@@ -9,7 +9,7 @@
 
 - 如何向我问社区问题: cube.root.huang+help@gmail.com
 - 我的个人网站: https://3gee.me/blog
-- 我制作的和工作相关的wiki: https://3gee.me
+- 我制作的和工作相关的wiki: https://3gee.me/workwiki
 - 知乎: https://www.zhihu.com/people/huang-bao-chen
 
 ### 我的技能(CS/DS)
