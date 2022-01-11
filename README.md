@@ -29,4 +29,4 @@
 
 ### 社交媒体
 
-[<img asign="left" width="30px" src="./assets/zhihu.svg" />](https://www.zhihu.com/people/huang-bao-chen)    [<img asign="left" width="30px" src="./assets/stackoverflow.svg" />](https://stackoverflow.com/users/5387442/huang-baochen)     [<img asign="left" width="30px" src="./assets/linkedin.svg" />](https://www.linkedin.com/in/huang-baochen-84b58347/)
+[<img asign="left" width="30px" src="./assets/zhihu.svg" />](https://www.zhihu.com/people/huang-bao-chen)    [<img asign="left" width="30px" src="./assets/stackoverflow.svg" />](https://stackoverflow.com/users/5387442/huang-baochen)     [<img asign="left" width="30px" src="./assets/linkedin.svg" />](https://www.linkedin.com/in/huang-baochen-84b58347/)    [<img asign="left" width="30px" src="./assets/kaggle.svg" />](https://www.kaggle.com/threecifanggen)
