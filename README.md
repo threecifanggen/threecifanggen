@@ -8,8 +8,10 @@
 ### 如何联系我
 
 - 如何向我问社区问题: cube.root.huang+help@gmail.com
-- 我的个人网站: https://3gee.me/blog
-- 我制作的和工作相关的wiki: https://3gee.me/workwiki
+- 我的个人网站: https://3gee.me
+- 我制作的和工作相关的wiki: https://workwiki.3gee.me
+- 一个哲学相关的wiki:    https://philosophia.3gee.me
+- 一个医学相关的wiki：      https://medicine.3gee.me
 - 知乎: https://www.zhihu.com/people/huang-bao-chen
 
 ### 我的技能(CS/DS)
