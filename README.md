@@ -14,22 +14,29 @@
 - 一个医学相关的wiki：      https://medicine.3gee.me
 - 知乎: https://www.zhihu.com/people/huang-bao-chen
 
-### 我的技能(CS/DS)
+### 我的技能
 
 #### GEEK SKILLS
 
-- Language
-  - ![Python](https://img.shields.io/badge/Python-★★★★☆-green?style=flat&logo=Python)
-  - ![scala](https://img.shields.io/badge/Scala-★★★-green?style=flat&logo=scala)
-- SQL Query
-  - ![MySQL](https://img.shields.io/badge/MySQL-★★★★-green?style=flat&logo=MySQL)
-- 前端
-  - ![SVELTE](https://img.shields.io/badge/MySQL-★★★★-green?style=flat&logo=Svelte)
+- Language: ![Python](https://img.shields.io/badge/Python-★★★★☆-green?style=flat&logo=Python) ![scala](https://img.shields.io/badge/Scala-★★★-green?style=flat&logo=scala) ![javascript](https://img.shields.io/badge/Scala-★★★-green?style=flat&logo=scala)
+- SQL Query: ![MySQL](https://img.shields.io/badge/MySQL-★★★★-green?style=flat&logo=MySQL)
+- 前端/界面: ![SVELTE](https://img.shields.io/badge/Svelte-★★★★-green?style=flat&logo=Svelte)![QT](https://img.shields.io/badge/PySide6|QT-★★★★-green?style=flat&logo=QT)
+- 运维/CI/容器: ![GithubActions](https://img.shields.io/badge/GithubActions-★★★-green?style=flat&logo=Github)
+- 项目管理: ![git](https://img.shields.io/badge/GIT-★★★-green?style=flat&logo=Git)
 
 #### Data Science
 
-- ![Simulation](https://img.shields.io/badge/Simulation-★★-green?style=flat)
-- ![Machine Learning](https://img.shields.io/badge/MachineLearning-★★★★-green?style=flat)
+- Machine Learning
+  - ![CV](https://img.shields.io/badge/CV-★★★★-green?style=flat) ![Feature Engineering](https://img.shields.io/badge/FeatureEngineering-★★★★-green?style=flat)
+  - ![Linear Models](https://img.shields.io/badge/LinearModels-★★★★-green?style=flat) ![EnsembleLearning](https://img.shields.io/badge/EnsembleLearning-★★★★-green?style=flat) ![DeepLearning](https://img.shields.io/badge/DeepLearning-★★-green?style=flat)
+  - ![Data Visulazation](https://img.shields.io/badge/DataVisualization-★★★★★-green?style=flat)
+- Statisc
+  - ![BayesianStat](https://img.shields.io/badge/BayesianStat-★★★-green?style=flat)
+- Tools
+  - ![numpy/scipy/pandas](https://img.shields.io/badge/numpy|scipy|pandas-★★★★-green?style=flat&logo=pandas) ![tensorflow/torch](https://img.shields.io/badge/tensorflow|torch-★-green?style=flat&logo=tensorflow) ![sympy](https://img.shields.io/badge/sympy-★★★-green?style=flat)![pymc3](https://img.shields.io/badge/pymc3-★★★-green?style=flat)
+  - ![ggplot](https://img.shields.io/badge/ggplot2|plotline-★★★★★-green?style=flat) ![plotly|Dash](https://img.shields.io/badge/plotly|Dash-★★★★★-green?style=flat&logo=plotly)![streamlit](https://img.shields.io/badge/streamlit-★★★★-green?style=flat)
+- Big Data: 
+- Misc: ![Simulation](https://img.shields.io/badge/Simulation-★★-green?style=flat)
 
 ### 我的博客
 
