@@ -16,7 +16,20 @@
 
 ### 我的技能(CS/DS)
 
-![Python](https://img.shields.io/badge/Python-★★★★☆-green?style=flat&logo=Python) ![scala](https://img.shields.io/badge/Scala-★★★-green?style=flat&logo=scala)![MySQL](https://img.shields.io/badge/MySQL-★★★★-green?style=flat&logo=MySQL) ![Simulation](https://img.shields.io/badge/Simulation-★★-green?style=flat) ![Machine Learning](https://img.shields.io/badge/MachineLearning-★★★★-green?style=flat)
+#### GEEK SKILLS
+
+- Language
+  - ![Python](https://img.shields.io/badge/Python-★★★★☆-green?style=flat&logo=Python)
+  - ![scala](https://img.shields.io/badge/Scala-★★★-green?style=flat&logo=scala)
+- SQL Query
+  - ![MySQL](https://img.shields.io/badge/MySQL-★★★★-green?style=flat&logo=MySQL)
+- 前端
+  - ![SVELTE](https://img.shields.io/badge/MySQL-★★★★-green?style=flat&logo=Svelte)
+
+#### Data Science
+
+- ![Simulation](https://img.shields.io/badge/Simulation-★★-green?style=flat)
+- ![Machine Learning](https://img.shields.io/badge/MachineLearning-★★★★-green?style=flat)
 
 ### 我的博客
 
