@@ -18,7 +18,7 @@
 
 #### GEEK SKILLS
 
-- Language: ![Python](https://img.shields.io/badge/Python-★★★★☆-green?style=flat&logo=Python) ![scala](https://img.shields.io/badge/Scala-★★★-green?style=flat&logo=scala) ![javascript](https://img.shields.io/badge/JavaScript-★★★-green?style=flat&logo=javascript)
+- Language: ![Python](https://img.shields.io/badge/Python-★★★★☆-green?style=flat&logo=Python) ![scala](https://img.shields.io/badge/Scala-★★★-green?style=flat&logo=scala) ![javascript](https://img.shields.io/badge/JavaScript-★★★-green?style=flat&logo=javascript) ![haskell](https://img.shields.io/badge/Haskell-★★-green?style=flat&logo=haskell)
 - SQL Query: ![MySQL](https://img.shields.io/badge/MySQL-★★★★-green?style=flat&logo=MySQL)
 - 前端/界面: ![SVELTE](https://img.shields.io/badge/Svelte-★★★★-green?style=flat&logo=Svelte)![QT](https://img.shields.io/badge/PySide6|QT-★★★★-green?style=flat&logo=QT)
 - 运维/CI/容器: ![GithubActions](https://img.shields.io/badge/GithubActions-★★★-green?style=flat&logo=Github)
